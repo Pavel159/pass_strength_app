@@ -36,7 +36,7 @@ function App() {
         <input
           className='passwordInput'
           placeholder='Password'
-          type='text'
+          type='password'
           value={password}
           onChange={handleChange}
         />
